@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**MerinPrime/MerinPrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+`  \                                              
+```"y`; *                                    _>!  
+ ```?_A_v%                                ygE=_/  
+ ```'J'~yM%_  "LL                   yy ya@M"y$_R`'
+   ```a``T~~=L ~y                  a@k?''` a~z~;`'
+  ````4$; t ``~L?$;              gE~~``` gf~K'X``'
+    ```~?gXN _ ``~~j          gIP~```` _="yF<<'`` 
+     ````"HDX~y  ` 0          KF'``   xyAR$E^'``` 
+  ;   ````````^$;  4_         @z     ^L;yF~````   
+ "@     ````````RW_'@;    ```u@~  ygg0"yM`````    
+``Kyr        ````""=Q``'   ``J"u=@~Y``*~```       
+```@@         ```````~``   ``|;4F`````````    ;(  
+```^@@             `````  `````````         yPyF '
+ ```@@@;^y                 ` ``           xKa@~``'
+  ``^4@y R@;y                          _*2@0F```` 
+ `````?@yg~0@$;      _   _;       ___yaP$gK~``'`  
+    ````M@`4@@@2W$sx~~%yUcyL zM_wg@@$M;J4"````    
+     ````~K`@%X"NB$s4HKQ$fy$@HM@dM]M_ff"````      
+       ```~ME;%~y@`sQ J^mg~$^a;fzV}F)~````        
+       ````^;1`~f[K~W[g<#$rtK~`vgZx^`````         
+        `````Y```^`}I7;`[";<`d+~~'````            
+           ```````````^g'```````````              
+                   ```````                        
+```
